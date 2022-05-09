@@ -1,0 +1,11 @@
+.body{
+    background-color: rgba(65, 48, 215, 0.394)
+ }
+ .head {
+    color: rgb(115, 240, 25);
+    text-align: center;
+ }
+.pen{
+    text-align: center;
+    color: chocolate;
+}
